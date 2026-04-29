@@ -1,4 +1,4 @@
-# 🌸 Olá, eu sou a Maria Fernanda! / Hi, I'm Maria! ✨
+# 🌸 Olá, eu sou a Maria Fernanda! ✨
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FeKurukava&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -7,13 +7,13 @@
 
 ---
 
-### ✨ Sobre mim / About me
+### ✨ Sobre mim
 
-* [cite_start]🎓 Graduanda em **Engenharia de Software** (6º semestre).
-* 💻 Atualmente focada em **Desenvolvimento Web** com Python, Flask e SQLAlchemy.
-* [cite_start]🚀 Busco minha primeira oportunidade como **Estagiária ou Dev Júnior** na área de TI[cite: 5, 6].
-* [cite_start]🏥 Experiência com suporte administrativo, organização de dados e resolução de problemas na **Unimed Ribeirão Preto**[cite: 11, 14, 15].
-* [cite_start]🌱 Sou apaixonada por aprender novas tecnologias e resolver problemas de forma ágil e colaborativa[cite: 33, 34, 35].
+* 🎓 Graduanda em **Engenharia de Software** (6º semestre).
+* 💻 Atualmente focada em **Desenvolvimento Web**.
+* 🚀 Busco minha primeira oportunidade como **Estagiária ou Dev Júnior** na área de TI.
+* 🏥 Experiência com suporte administrativo, organização de dados e resolução de problemas na **Unimed Ribeirão Preto**.
+* 🌱 Sou apaixonada por aprender novas tecnologias e resolver problemas de forma ágil e colaborativa.
 
 ---
 
@@ -36,7 +36,7 @@
 
 ---
 
-### 🎀 Vamos conversar? / Let's connect!
+### 🎀 Vamos conversar?
 
 <div align="center">
   <a href="https://www.linkedin.com/in/maria-kurukava/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -50,17 +50,3 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=FeKurukava&color=ff69b4&style=flat-square&label=PROFILE+VIEWS" alt="views" />
 </p>
-<!--
-**FeKurukava/FeKurukava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
